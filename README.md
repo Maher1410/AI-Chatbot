@@ -8,3 +8,7 @@ Once trained, the model, tokenizer, and label encoder are saved for future use. 
 
 The chatbot's conversation can be terminated with the input 'quit'. Please note that this is a basic implementation of an AI Chatbot, primarily intended for simple conversations. For more complex scenarios or deeper contextual understanding, the model may require further refinement and tuning. This project serves as a foundational starting point for anyone interested in developing their own AI Chatbot. Enjoy exploring and expanding on this code!
 
+
+
+https://github.com/Maher1410/AI-Chatbot/assets/116511724/af13d1f8-b002-4251-a0a9-545f22fbfdfd
+
